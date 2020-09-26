@@ -1,13 +1,3 @@
-"""
-Name: Python Data Analysis
-Purpose: Handling exceptions and validation
-
-Algorithm:
-
-Step 1: Handling the Exception program
-Step 2: Validating the user everywhere input so our program don't crash
-
-"""
 
 import matplotlib.pyplot as plt
 
